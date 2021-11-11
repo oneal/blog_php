@@ -1,0 +1,21 @@
+#nav{
+    background: #00346d;
+}
+#nav ul li a{
+    color: #ff934d;
+    font-weight: 500
+}
+
+#content-main{
+    padding-top: 20px;
+}
+
+#sidebar{
+    padding-top: 20px;
+}
+
+.btn-color{
+    background: #00346d !important;
+    color: #fff !important;
+    border-color: #00346d !important;
+}
